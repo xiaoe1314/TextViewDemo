@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextViewDemo</string>
+    <string name="one">超过十个字符省略号结尾超过十个字符省略号结尾超过十个字符省略号结尾</string>
+    <string name="two">加粗和下划线加粗和下划线加粗和下划线加粗和下划线加粗和下划线</string>
+    <string name="three">字间距和行间距字间距和行间距字间距和行间距字间距和行间距</string>
+    <string name="four">支持html格式的字符串</string>
+</resources>
